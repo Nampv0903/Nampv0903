@@ -11,7 +11,7 @@
   </a>
   
    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-     - 18 years ols<br />
+     - 19 years ols<br />
      - studying at Tan Trao University<br />
      - no maried<br />
      - code: [HTML, CSS, C++]<br />
