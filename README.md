@@ -17,7 +17,7 @@
 
 I am currently a 3rd year student at Tan Trao University in Vietnam.  I am researching in the field of Computer Science, artificial intelligence and computer vision.
 
-**View my resume [here](link to pdf).**
+**View my resume [here].**
 
 ### Scientific publications during the study process
 **2nd Year Of University** | : Source: **coming soon**
