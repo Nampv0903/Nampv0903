@@ -20,18 +20,19 @@ I am currently a 3rd year student at Tan Trao University in Vietnam.  I am resea
 **View my resume [here].**
 
 ### Scientific publications during the study process
-**2nd Year Of University** | : Source: **coming soon**
-- Published 2 scientific articles in the fields of Computer Vision, Deep Learning, and Machine Learning.
-1. REAL-TIME HAND ACTION DETECTION AND CLASSIFICATION ON
-THE EGOCENTRIC VISION DATASET BASED ON MEDIAPIPE. [Here](https://www.academia.edu/117949930/REAL_TIME_HAND_ACTION_DETECTION_AND_CLASSIFICATION_ON_THE_EGOCENTRIC_VISION_DATASET_BASED_ON_MEDIAPIPE)
-
-2. 3D HUMAN POSE ESTIMATION 
-FROM SPORT VIDEOS USING MEDIAPIPE FRAMEWORK. [Here](https://www.academia.edu/117950500/3D_HUMAN_POSE_ESTIMATION_FROM_SPORT_VIDEOS_USING_MEDIAPIPE_FRAMEWORK)
-
-**3nd Year Of University** | : Source: **coming soon**
-- Published one more article on Computer Vision, Machine Learning, Deep Learning, and the upcoming article on the field of Visual Slam and Visual Odometry is preparing to be published.
-1. TQU-HG dataset and comparative study for hand gesture
-recognition of RGB-based images using deep learning. [Here](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/36458/18314)
+### DaTaset
+- [Dataset 1](https://drive.google.com/drive/folders/16Dx_nORUvUHFg2BU9mm8aBYMvtAzE9m7 ): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-SLAM benchmark dataset and Feature-based for building Monocular VO", TT University, 2024.
+- [Dataset 2](https://drive.google.com/drive/folders/1kN626tDV7ABWLpAbWHrujDwcIwCmveRX): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-Hand dataset for 15 hand positions", TT University, 2023.
+### Paper
+- [Paper 1](https://tckh.daihoctantrao.edu.vn/index.php/sjttu/article/view/975): Son Huu-Do, "3D HUMAN POSE ESTIMATION FROM SPORT VIDEOS USING MEDIAPIPE FRAMEWORK", TT University, 2022.
+- [Paper 2](https://www.academia.edu/114277180/REAL_TIME_HAND_ACTION_DETECTION_AND_CLASSIFICATION_ON_THE_EGOCENTRIC_VISION_DATASET_BASED_ON_MEDIAPIPE): Van-Hung Le, Danh-Tuyen Hoang, Huu-Son Do*, Trung-Hieu Te, Van-Nam Phan, "REAL-TIME HAND ACTION DETECTION AND CLASSIFICATION ON THE EGOCENTRIC VISION DATASET BASED ON MEDIAPIPE",TNU Journal of Sciene and Technology, 2022
+- [Paper 3](https://www.researchgate.net/publication/371274443_UOC_LUONG_TU_THE_NGUOI_3D_TRONG_VIDEO_THE_THAO_SU_DUNG_MEDIAPIPE): Thai-Son Dinh, Huu-Son Do*, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "3D human pose estimation from Sport Videos using Mediapipe Framework",Scientific Journal of Tan Trao University (SJTTU) with ISSN: 2354- 1431, 6/2023 (accepted).
+- [Paper 4 - SCOPUS Q3](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/36458): Van-Dinh Do, Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-HG dataset and comparative study for hand gesture recognition of RGB-based images using deep learning",The Indonesian Journal of Electrical Engineering and Computer Science (IJEECS), p-ISSN: 2502-4752, e-ISSN: 2502-4760.
+- [Paper 5 - SCOPUS Q2, ESCI, IF: 3.4](https://doi.org/10.3390/fi16050174): Thi-Thao Do, Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-SLAM Benchmark Dataset for Comparative Study to Build Visual Odometry Based on Extracted Features from Feature Descriptors and Deep Learning",Future Internet, 16(5), 174. 24 April 2024 / Revised: 7 May 2024 / Accepted: 15 May 2024 / Published: 17 May 2024.
+- [Paper 6 - SCOPUS Q2, ESCI, IF: 1.5](https://etasr.com/index.php/ETASR/article/view/7611): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-SLAM Benchmark Feature-based Dataset for Building Monocular VO",  Vol. 14 No. 4 (2024): August, 2024, Pages: 15330-15337.
+- [Paper 7 ](https://tckh.daihoctantrao.edu.vn/index.php/sjttu/article/view/1283): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, "RESEARCH ON WEBSITE DESIGN SYSTEM OF TAN TRAO UNIVERSITY AND SPECIALIZED FACULTIES",  Vol. 10 No. 4 (2024): Natural Science - Engineering - Technology.
+- [Paper 8 ](): Van-Hung Le, Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Ninh-Quang Tri "Fine-tuning VO estimation Model Based on Deep Learning of TQU-SLAM Benchmark Dataset", A Springer Nature Computer Sdence book series (CCIS, LNAI, LNBI, LNBIP or LNCS). ready for publication.
+- [Paper 9 ](): Thi-Loan Nguyen, Van-Nam Phan, Van-Thuan Nguyen, Van-Hung Le, “Automatically End-to-End Hand Activity Recognition Based on 3D Hand Pose Estimation from Egocentric Vision Dataset”. A Springer Nature Computer Sdence book series (CCIS, LNAI, LNBI, LNBIP or LNCS). Ready for publication.
 
 **Experiences gained through the process of study and research**
 - Through the process of studying and researching, I have become proficient with the Python programming language and frameworks such as Mediapipe, Pytorch, Caffe, Tensorflow.
