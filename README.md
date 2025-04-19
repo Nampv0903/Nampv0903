@@ -15,7 +15,7 @@
 
 </p>
 
-I am currently a 3rd year student at Tan Trao University in Vietnam.  I am researching in the field of Computer Science, artificial intelligence and computer vision.
+I am a recent graduate in Information Technology from Tan Trao University. Currently, I am preparing to pursue a PhD program at the University of Engineering and Technology, Vietnam National University, Hanoi (VNU-UET).
 
 **View my resume [here].**
 
