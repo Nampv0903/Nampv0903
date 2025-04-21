@@ -19,6 +19,16 @@ I am a recent graduate in Information Technology from Tan Trao University. Curre
 
 **View my resume [here].**
 
+### Experience
+
+- Image and video processing
+- Object recognition and tracking
+- Object detection and localization
+- hand/body action recognition, gesture
+- 2D/3D pose estimation
+- Visual Odometry
+- visual Slam
+  
 ### Scientific publications during the study process
 ### DaTaset
 - [Dataset 1](https://drive.google.com/drive/folders/16Dx_nORUvUHFg2BU9mm8aBYMvtAzE9m7 ): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-SLAM benchmark dataset and Feature-based for building Monocular VO", TT University, 2024.
