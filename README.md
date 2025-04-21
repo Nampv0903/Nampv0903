@@ -28,6 +28,26 @@ I am a recent graduate in Information Technology from Tan Trao University. Curre
 - 2D/3D pose estimation
 - Visual Odometry
 - visual Slam
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.pytorch.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" width="65" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21~bgwhite.svg" alt="tensorflow" width="65" height="40"/> </a>
+<a href="https://github.com/google-ai-edge/mediapipe" target="_blank"> <img src="https://cdn.prod.website-files.com/669eb1086f08fffc3efda56e/66b3adce1ad2a796f8f2c8f2_mediapipe3_d1dd738003.jpeg" alt="mediapipe" width="50" height="50"/> </a>
+<a href="https://opencv.org/" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black_.png" alt="panda" width="40" height="40"/> </a>
+<a href="https://www.ultralytics.com/" target="_blank"> <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994922be624dae865d06a5_UltralyticsYOLO_full_blue.svg" alt="ultralytics" width="60" height="40"/> </a>
+<a href="https://www.numpy.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21~bgwhite.svg" alt="numpy" width="65" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="panda" width="65" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOU4hIRB20Oy0barVYD6x4N8hQa5QOW7Www&s" alt="vscode" width="70" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl4fp0SkQbTPU5ZxVl6AKWYuKCwM0gIhNtQ&s" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" alt="mysql" width="50" height="40"/> </a>
+<a href="https://html5.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" alt="html5" width="50" height="40"/> </a>
+<a href="https://web.dev/css?hl=vi" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg" alt="css" width="50" height="40"/> </a>
+<a href="https://react.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg" alt="reactjs" width="50" height="40"/> </a>
+<a href="https://cplusplus.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21~bgwhite.svg" alt="cpp" width="40" height="40"/> </a>
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg" alt="java" width="40" height="40"/> </a>
+<a href="http://www.c-sharp.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" alt="c#" width="40" height="40"/> </a>
   
 ### Scientific publications during the study process
 ### DaTaset
