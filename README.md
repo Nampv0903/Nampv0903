@@ -1,4 +1,4 @@
-## NamPv, open source contributor to DeepLearning, Computer Vision, Visual Odometry, Visual Slam
+## NamPv, AI Egineer & AI Research
 
 <p align="left">
   <!--
